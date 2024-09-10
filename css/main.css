@@ -1,0 +1,149 @@
+.header{
+	background-color: lightgrey;
+/*	width:90%;*/
+	border: 5px,black;
+	padding: 20px;
+	margin: 20px;
+	font-style:;
+	font-family: math;
+/*	border: 1px solid orange;*/
+	
+	
+}
+.main{
+	background-color: white;
+/*	width: 90%;*/
+	border: 5px, grey;
+	padding: 20px;
+	margin: 20px;
+	font-family: sans-serif;
+	justify-content: space-between;
+}
+.skills1{
+	display: inline-block;
+	padding:10px;
+	border:1px solid;
+	border-color: orange;
+	width: 40%;
+	min-width: 340px;
+	max-width: 900px;
+	min-height:400px;
+}
+.footer{
+	background-color:lightgrey;
+/*	width: 90%;*/
+	border: 5px, grey;
+	padding: 20px;
+	margin: 20px;
+	font-family:;
+}
+
+.contact{
+	font-size: ;
+	font-style: ;
+	font-weight: ;
+	justify-content: ;
+}	
+.media{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+ 	padding: 5px;
+	border: 5px;
+	margin: 5px;
+}
+
+.menu{
+	display: flex;
+	justify-content: space-between;
+}
+
+#header{
+	float:right;
+	margin: 0 0 50 15px;
+}
+.skills{
+	
+}
+.skillscontainer{
+	
+}
+h1.titlemain{
+	style="margin: 20px; 
+	padding: 20px; 
+	text-align: center;"
+}
+
+
+ol{
+  list-style-type: none;  /* type of list circle, square, upper-roman, lower-alpha*/
+  margin: 0;
+  padding: 10px;
+  display:inline-block; /* It helps to align the menu along with text align in .dnav*/
+}
+
+li.nav {
+	float:left ; 
+	margin: auto;
+	padding: 10px 0px 10px 0px}
+
+
+
+
+a.hover {
+  padding:10px; /*Change the space inbetween the words*/
+  color: black; /*Change the color of the hyperlinks*/
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bolder;
+
+}
+
+.hover:hover { /*use : in between a and hover */
+  background-color:darkgray; /*Change the color of the link box on hover event*/
+  color:white; /*Change the color of the text when hover the mouse*/
+}
+#active {
+  background-color: darkgrey;/*Change the background color for the active link*/
+  color: lightgrey;/*Change the color of the word in the active link*/ 
+}
+
+h1{
+	font-size: ;
+	font-weight: ;
+	font-family: sans-serif;
+	font-display: ;
+
+}
+
+h2{
+	font-size: ;
+	font-weight: ;
+	font-display: ;
+	font-family:math;
+
+}
+h3{
+	font-size: ;
+	font-weight: ;
+	font-display: ;
+	font-family:fantasy;
+}
+h4{
+	font-size: 15px;
+	font-weight: ;
+	font-display: ;
+	font-family:fantasy;
+}
+p{
+	text-align: justify;
+
+}
+
+
+
